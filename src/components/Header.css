@@ -1,0 +1,58 @@
+.header{
+    background-color: #000;
+    padding-top: 5px;
+}
+.flex-container {
+    display: flex;
+}
+
+.brand{
+    color: #a6a6a6;
+    font-family: 'Gotham';
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 25px;
+    display: inline-block;
+    text-decoration: none;
+}
+.sub-brand{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 150px;
+}
+.logo{
+    height: 50px;
+    margin-left: 10px;
+}
+
+.navs{
+    display: flex;
+    margin-left: 250px;
+    /* gap: 10px; */
+    /* padding: 5px; */
+    /* background-color: #fc3e3e; */
+}
+
+.nav-item{
+    display: flex;
+    padding-left: 20px;
+}
+
+.icons{
+    height: 20px;
+    /* margin-left: 10px; */
+    /* display: flex; */
+    /* margin-top: 15px; */
+    padding: 15px;
+}
+
+.icon-text{
+    color: #a6a6a6;
+    font-weight: bold;
+    font-size: 20px;
+    /* display: flex; */
+    margin-top: 15px;
+    /* padding-left: 15px; */
+    text-decoration: none;
+}
